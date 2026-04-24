@@ -6,14 +6,6 @@ A fully functional chess game built with Python and Pygame, featuring complete c
 
 ---
 
-## 👥 Team Members
-
-- Jomana Khaled Mahmoud
-- Asmaa Mohamed Zakaria
-- Fatma Abd Emonem Allam
-
----
-
 ## 🎮 About the Game
 
 Chaos Chess enhances classical chess by introducing a strategic extension — the **Swap Ability**. Once per game, each player can swap the positions of any two of their own pieces instead of making a normal move. This counts as their full turn.
